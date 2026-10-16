@@ -1,0 +1,44 @@
+header {
+    border: 1px dotted black;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.Principal {
+    background-color: rgb(171, 229, 181);
+    height: 40px;
+}
+
+div {
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu {
+    background-color: #075f2ae0;
+    color: white;
+    width: 85px;
+    border-radius: 10px;
+}
+
+.contatos {
+    background-color: #075f2ae0 ;
+    color: white;
+    width: 85px;
+    border-radius: 10px;
+}
+
+.ferramentas {
+    background-color: #075f2ae0;
+    color: white;
+    width: 85px;
+    border-radius: 10px;
+}
+p {
+
+}
+aside {
+    height: 40%;
+    float:right;
+    border: 3px solid black;
+}
